@@ -1,4 +1,4 @@
-import Tictactoe from './components/tictactoe/TicTacToe'
+import Tictactoe from "./components/TicTacToe/TicTacToe"
 
 const App = () => {
   return (
